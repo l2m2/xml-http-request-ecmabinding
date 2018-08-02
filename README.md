@@ -1,2 +1,2 @@
 # xmlhttprequest_ecmabinding
-ecmabinding for qt script (QScriptEngine)
+XMLHttpRequest ecmabinding for qt script (QScriptEngine)
